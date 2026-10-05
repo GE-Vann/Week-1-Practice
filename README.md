@@ -1,9 +1,9 @@
 # Computer Programming: Test Repo
 
-## CHANGE THIS HEADING TO YOUR NAME
+## Samuel Bennington
 
 ### CHANGE THIS HEADING TO YOUR GROUP (e.g. CS4A, FS4D)
-### CHANGE THIS HEADING TO YOUR TUTOR'S FULL NAME
+### Duncan Mullier
 
 This is a repo created just for testing.
 
