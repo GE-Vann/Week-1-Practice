@@ -2,7 +2,7 @@
 
 ## Samuel Bennington
 
-### CHANGE THIS HEADING TO YOUR GROUP (e.g. CS4A, FS4D)
+### Group FS4F
 ### Duncan Mullier
 
 This is a repo created just for testing.
